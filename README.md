@@ -2,7 +2,7 @@
   <h2>Hi there 👋</h2>
   <br>
   
-  ![cneichelberger's github stats](https://github-readme-stats.vercel.app/api?username=cneichelberger&show_icons=true&theme=dracula)
+  ![cneichelberger's github stats](https://github-readme-stats.vercel.app/api?username=cneichelberger&show_icons=true&theme=default)
 </div>
 
 
