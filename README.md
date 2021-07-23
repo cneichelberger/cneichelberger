@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi there 👋</h2>
+  <br>
+  
+  ![cneichelberger's github stats](https://github-readme-stats.vercel.app/api?username=cneichelberger&show_icons=true&theme=dracula)
+</div>
+
 
 <!--
 **cneichelberger/cneichelberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
